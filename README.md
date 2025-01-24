@@ -35,12 +35,11 @@ A text-based adaptation of the popular Netflix series' games with enhanced featu
 ```bash
 # Clone repository
 git clone https://github.com/vishveshjain/Squid-Game.git
-cd squid-game-python
+cd Squid-Game
 
 
 Usage
 bash
-Copy
 python squid_game.py
 Controls:
 
