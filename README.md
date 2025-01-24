@@ -34,15 +34,10 @@ A text-based adaptation of the popular Netflix series' games with enhanced featu
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/squid-game-python.git
+git clone https://github.com/vishveshjain/Squid-Game.git
 cd squid-game-python
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Create sound directory
-mkdir -p sounds/
-# Add WAV files: success.wav, fail.wav, warning.wav, start.wav
 Usage
 bash
 Copy
@@ -98,7 +93,7 @@ Game version
 Credits
 Game Concept: Based on Netflix's Squid Game
 
-Development: [Your Name]
+Development: Vishvesh Jain
 
 ASCII Art: Generated using patorjk.com
 
@@ -107,32 +102,10 @@ Sound Effects: CC0 Licensed sounds
 License
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2023 Vishvesh Jain
 
 Disclaimer
 This project is not affiliated with or endorsed by Netflix or the creators of Squid Game. Created strictly for educational and entertainment purposes.
 
 Warning: Contains dramatic sound effects and tense gameplay moments. Play responsibly!
 
-Copy
-
-This README includes:
-1. Feature highlights with emoji indicators
-2. Clear installation instructions
-3. Multiplayer configuration notes
-4. Licensing information
-5. Required disclaimer
-6. Visual hierarchy for easy reading
-7. Platform requirements
-8. Credit section for assets
-
-You should also create:
-1. A `requirements.txt` file with:
-colorama==0.4.6
-playsound==1.3.0
-
-Copy
-2. Add screenshot examples in an `images/` directory
-3. Include contribution guidelines if open-sourcing
-
-Would you like me to create any of these additional files?
