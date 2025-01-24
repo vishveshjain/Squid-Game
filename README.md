@@ -1,6 +1,14 @@
 # Squid Game: Python Edition
 
-![Squid Game ASCII Art](https://patorjk.com/software/taag/#p=display&h=0&f=Big&t=Squid%20Game)
+
+   _____                   _       _      _____                            
+  / ____|                 (_)     | |    / ____|                           
+ | (___     __ _   _   _   _    __| |   | |  __    __ _   _ __ ___     ___ 
+  \___ \   / _` | | | | | | |  / _` |   | | |_ |  / _` | | '_ ` _ \   / _ \
+  ____) | | (_| | | |_| | | | | (_| |   | |__| | | (_| | | | | | | | |  __/
+ |_____/   \__, |  \__,_| |_|  \__,_|    \_____|  \__,_| |_| |_| |_|  \___|
+              | |                                                          
+              |_|                                                          
 
 A text-based adaptation of the popular Netflix series' games with enhanced features. Experience the thrill of the challenges in a terminal-based format with multiplayer support.
 
