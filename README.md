@@ -32,15 +32,17 @@ A text-based adaptation of the popular Netflix series' games with enhanced featu
 - Terminal with ANSI support
 
 ### Setup
+```bash
 # Clone repository
 git clone https://github.com/vishveshjain/Squid-Game.git
 cd Squid-Game
 
-
+```
 Usage
-bash
+```bash
 python squid_game.py
-Controls:
+```
+## Controls:
 
 Main Menu: Number selections (1-4)
 
@@ -48,7 +50,7 @@ In-game: Timed text inputs
 
 Multiplayer: Follow network prompts
 
-Game Guide:
+## Game Guide:
 
 Start with Single Player modes
 
@@ -58,8 +60,8 @@ Survive all rounds without 3 failures
 
 Compete for top leaderboard positions
 
-Multiplayer Setup
-Host Game:
+## Multiplayer Setup
+### Host Game:
 
 Select "Host Game" in multiplayer menu
 
@@ -67,7 +69,7 @@ Share IP address with players
 
 Wait for connections
 
-Join Game:
+### Join Game:
 
 Select "Join Game"
 
@@ -77,7 +79,7 @@ Wait for game synchronization
 
 Note: Multiplayer currently supports LAN play only
 
-Leaderboard
+## Leaderboard
 Top 10 scores are saved in leaderboard.json with:
 
 Player name
@@ -88,7 +90,7 @@ Date achieved
 
 Game version
 
-Credits
+## Credits
 Game Concept: Based on Netflix's Squid Game
 
 Development: Vishvesh Jain
@@ -97,7 +99,7 @@ ASCII Art: Generated using patorjk.com
 
 Sound Effects: CC0 Licensed sounds
 
-License
+## License
 MIT License
 
 Copyright (c) 2023 Vishvesh Jain
