@@ -32,7 +32,6 @@ A text-based adaptation of the popular Netflix series' games with enhanced featu
 - Terminal with ANSI support
 
 ### Setup
-```bash
 # Clone repository
 git clone https://github.com/vishveshjain/Squid-Game.git
 cd Squid-Game
